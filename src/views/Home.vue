@@ -31,7 +31,7 @@ export default {
   },
   //监听方法  click事件等
   methods: {},
-  //挂载
+  //调用
   mounted() {},
   watch: {},
   //计算
